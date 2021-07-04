@@ -1,8 +1,7 @@
- **Stringify a data passed in props.**
+**Typed array utilities**
 
- For an object and array value always do a deep sort of it's keys before stringify.
- So comparison of objects/arrays can be done also by comparison of it's
- stringified versions.
-[See docs](/docs/modules.md)
+Here are some number of utilities to work easily with typed arrays.
 
-``npm install @pashoo2/serialization-utils``
+[See docs](docs/modules.md)
+
+``npm install @pashoo2/typed-array-utils``
